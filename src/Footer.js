@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-class TM_FILENAME_BASE extends Component {
+class Footer extends Component {
   render() {
     return (
       <div>
@@ -24,4 +24,4 @@ class TM_FILENAME_BASE extends Component {
   }
 }
 
-export default TM_FILENAME_BASE
+export default Footer

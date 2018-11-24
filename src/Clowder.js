@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import Cat from './Cat'
 
-class TM_FILENAME_BASE extends Component {
+class Clowder extends Component {
   render() {
     return (
       <div>
@@ -84,4 +84,4 @@ class TM_FILENAME_BASE extends Component {
   }
 }
 
-export default TM_FILENAME_BASE
+export default Clowder
