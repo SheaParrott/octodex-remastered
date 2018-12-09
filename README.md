@@ -2,7 +2,6 @@
 In this assignment we were instructed to recreate the octodex using REACT.  
 
 <strong>Things learned</strong><br/>
-expanded and reinforced my knowledge in javascript<br/>
 expanded and reinforced my knowledge into HTML, CSS, and Javascript<br/>
 REACT<br/>
  - use of components
