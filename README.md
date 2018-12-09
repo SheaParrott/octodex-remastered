@@ -3,7 +3,7 @@ In this assignment we were instructed to recreate the octodex using REACT.
 
 <strong>Things learned</strong><br/>
 expanded and reinforced my knowledge into HTML, CSS, and Javascript<br/>
-REACT<br/>
+first look into REACT:<br/>
  - use of components
  - what parent and child components are
  - how to import
